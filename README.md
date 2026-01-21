@@ -1,3 +1,4 @@
 # learning-git
 This is my first git repository.
-Author -shivangi singh
+<br>
+Author - Shivangi Singh
